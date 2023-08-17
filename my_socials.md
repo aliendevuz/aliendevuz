@@ -53,6 +53,5 @@ status - []
 * instagram - [Alien Developer](https://instagram.com/alien_dev_uz) => yaratgan dasturlarimni post qilaman
 * youtube - [Alien Developer](https://youtube.com/@aliendevuz) => yaratgan dasturlarimni post qilaman va ba'zida video darslar tayyorlayman, ishlab chiqargan kutubxonamni reklama qilaman
 * telegram - [Alien Developer](https://t.me/alien_dev_uz) => yaratgan dasturlarimni post qilaman, reklama va hokazolar
-
 * web-site - [Alien Developer's Portfolio](https://aliendevuz.github.io) => Meni shaxsiy veb sahifam, rezyumeim va portfoliom bir joyda ko'rinadi
 * github - [Alien developer](https://github.com/aliendevuz) => Public va private loyihalarni chiqaraman :)
