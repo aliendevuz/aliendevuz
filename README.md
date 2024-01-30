@@ -1,41 +1,26 @@
-### Hi there 👋
+## Alien Dev 👨‍💻
 
-
-**aliendevuz/aliendevuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<!--
  **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**  **About me**
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Hello+Github;Welcome+to+my+profile;kotlin+java+dart;Android+Flutter+KMM"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=false&vCenter=true&lines=Hi+there;Welcome+to+my+profile;python+Java+Kotlin+Cpp;pygame+Android+SDK+Android+NDK"></a>
 </p>
+
+<!--
 
 ### 📊 My Github Stats:
 ![Stc Android's github stats](https://github-readme-stats.vercel.app/api?username=professordeveloper&show_icons=truea&theme=dracula)
 
-    
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=professorDeveloper&theme=dracula&line_height=60&line_width=120"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliendevuz&theme=dracula&line_height=60&line_width=120"/> </a>
 
 
 ## My Streak
 
-<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=professorDeveloper&theme=dracula" alt="professorDeveloper" /></p>
+<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=aliendevuz&theme=dracula" alt="Alien Dev" /></p>
 
 ## My Ranks
 
-<img src="https://github-profile-trophy.vercel.app/?username=professorDeveloper&theme=dracula" alt="GitHub Ranks" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=aliendevuz&theme=dracula" alt="GitHub Ranks" /></a></p>
 
 
 
@@ -47,10 +32,12 @@ Here are some ideas to get you started:
 ## 🛠 Skills Flutter, Kotlin, Dart, Javascript, HTML, JAVA, Firebase, Node
 [resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
 
+-->
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<!--
 
 # Diagram 
 
@@ -61,4 +48,4 @@ Here are some ideas to get you started:
 
 -->
 
-Hozircha hech narsani o'zgartirmaymiz ;)
+Hali profilni sozlab bo'lganim yo'q!
