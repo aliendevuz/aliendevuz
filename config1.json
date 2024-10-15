@@ -1,0 +1,10 @@
+{
+  "status_bar": {
+    "enabled": true,
+    "color": "#eeeeee"
+  },
+  "ads": {
+    "enabled": true,
+    "position": "top"
+  }
+}
