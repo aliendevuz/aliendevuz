@@ -1,19 +1,19 @@
-### Hi there 👋
+# `Developer's profile 🧑‍💻`
 
+About me:
+* Age: 21 years old
+* Name: Ibrohim
+* Surname: Xalilov
+* City: Angren, Tashkent
 
-**aliendevuz/aliendevuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profession:
+* Android Native Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Programming languages:
+* python
+* Java
+* Kotlin
+* C++ (Android NDK)
 
 <!--
  **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>**  **About me**
@@ -60,5 +60,3 @@ Here are some ideas to get you started:
 [![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=professorDeveloper&theme=radical)](https://wakatime.com/@professorDeveloper)
 
 -->
-
-Hozircha hech narsani o'zgartirmaymiz ;)
