@@ -10,7 +10,7 @@ Siz bu sahifada mening texnik bilimim qaysi darajada ekanligini aniqlashingiz mu
 - Server Side
     <!-- - [aiogram](https://github.com/aliendevuz/aiogram-portfolio) -->
     <!-- - [FastAPI](https://github.com/aliendevuz/fastapi-portfolio) -->
-    - [Spring Boot](https://github.com/aliendevuz/spring-boot-portfolio)
+    - [Spring Boot](https://github.com/aliendevuz/spring-portfolio)
 - Client Side
     - [Android Kotlin](https://github.com/aliendevuz/android-portfolio)
     - [Flutter](https://github.com/aliendevuz/flutter-portfolio)
