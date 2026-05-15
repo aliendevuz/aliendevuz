@@ -1,26 +1,6 @@
 # `GitHub portfolio`
 
-Siz bu sahifada mening texnik bilimim qaysi darajada ekanligini aniqlashingiz mumkin. [Portfolios](#portfolios) bo'limidagi linklarda sizni qiziqtirgan yo'nalish bo'yicha portfoliomni ko'rishingiz va o'sha yo'nalish bo'yicha qaysi stacklarni o'rganganimni aniq ko'rishingiz mumkin!
-
-
-## About Me
-
-`Ibrohim Xalilov` - Intern Developer
-
-Contacts
-- [+998 50 301 36 04](tel:+998503013604)
-- [xalilov.dev@gmail.com](mailto:xalilov.dev@gmail.com?subject=Taklif&body=Salom,%20Ibrohim.%20)
-- [LinkedIn Profile](https://linkedin.com/in/ibrohim-xalilov)
-- [Telegram Profile](https://t.me/ibrohim_xalilov)
-
-Education:
-* `PDP UNIVERTISY Tashkent, Uzbekistan`<br>
-    B.S. in Artificial Intelligence Solutions and Software<br>
-    Sept 2024 - Present (Expected May 2028)
-
-Languages:
-- Uzbek		- Native
-- English	- A2
+Siz bu sahifada mening texnik bilimim qaysi darajada ekanligini aniqlashingiz mumkin. Quyidagi linklarda sizni qiziqtirgan yo'nalish bo'yicha portfoliomni ko'rishingiz va o'sha yo'nalish bo'yicha qaysi stacklarni o'rganganimni aniq ko'rishingiz mumkin!
 
 
 ## Portfolios
@@ -70,6 +50,27 @@ Languages:
 - [ ] Muntazam ravishda portfoliomni yangilab borish
 
 > Bu yerda umumiy roadmap bor, yo'nalish uchun maxsus roadmap esa o'sha portfolio repo ichida mavjud
+
+
+## About Me
+
+`Ibrohim Xalilov` - Intern Developer
+
+Contacts
+- [+998 50 301 36 04](tel:+998503013604)
+- [xalilov.dev@gmail.com](mailto:xalilov.dev@gmail.com?subject=Taklif&body=Salom,%20Ibrohim.%20)
+- [LinkedIn Profile](https://linkedin.com/in/ibrohim-xalilov)
+- [Telegram Profile](https://t.me/ibrohim_xalilov)
+
+Education:
+* `PDP UNIVERTISY Tashkent, Uzbekistan`<br>
+    B.S. in Artificial Intelligence Solutions and Software<br>
+    Sept 2024 - Present (Expected May 2028)
+
+Languages:
+- Uzbek		- Native
+- English	- A2
+
 
 ---
 
