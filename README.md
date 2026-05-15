@@ -1,6 +1,6 @@
 # `GitHub portfolio`
 
-Siz bu sahifada mening texnik bilimim qaysi darajada ekanligini aniqlashingiz mumkin. Quyidagi linklarda sizni qiziqtirgan yo'nalish bo'yicha portfoliomni ko'rishingiz va o'sha yo'nalish bo'yicha qaysi stacklarni o'rganganimni aniq ko'rishingiz mumkin!
+Siz bu sahifada mening texnik bilimim qaysi darajada ekanligini aniqlashingiz mumkin. [Portfolios](#portfolios) bo'limidagi linklarda sizni qiziqtirgan yo'nalish bo'yicha portfoliomni ko'rishingiz va o'sha yo'nalish bo'yicha qaysi stacklarni o'rganganimni aniq ko'rishingiz mumkin!
 
 
 ## About Me
